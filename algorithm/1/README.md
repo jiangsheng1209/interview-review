@@ -13,6 +13,7 @@
 # 解题
 
 ```javascript
+
 const string = 'AAAllsrrrbbcccceeeeYYYYYlZZZZZyyMMMM';
 
 function arrToStr(arr){
@@ -46,6 +47,6 @@ function init(str){
     return arrToStr(arrList)
 } 
 
-
 init(string)
+
 ```
