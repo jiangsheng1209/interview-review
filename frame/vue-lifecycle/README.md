@@ -29,7 +29,7 @@
   + init Provide
   + created
   + Has 'el' option
-    + No when vm.$mount(el) is called 当前组件实力调用$mount(el)
+    + No when vm.$mount(el) is called 当前组件实例调用$mount(el)
   + Has 'template' option 
     + Yes compile template into render function，将模板编译成渲染函数*
     + No compile el's outerHTML as template *，编译el对应的外层html
