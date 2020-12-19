@@ -4,9 +4,9 @@
     input: 'AAAllsrrrbbcccceeeeYYYYYlZZZZZyyMMMM......' 无序排列的字符串
 
     step1: 'A3l2s1r3b3....'
-    step2: 'A3A2B1B2c4d1e4E1.....'
+    step2: 'a3A2b1B2c4d1e4E1.....'
 
-    output: 'A3A2B1B2c4d1e4E1.....'
+    output: 'a3A2b1B2c4d1e4E1.....'
 
 ```
 
